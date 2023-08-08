@@ -18,5 +18,7 @@ Allows you to go on/off duty in person at customizable coordinates.
 4. Edit the coordinates from the file to your liking. Again, all should have a comma at the end except for the last one.
 5. After any changes are made, `ensure fivepd` in the F8 Console.
 
+If you want, you can disable the duty toggle from the Duty Menu in the `menu.json` file.
+
 ## Limitations
 * Due to the way FivePD is coded, when duty status is changed, the duty notification does not appear. This can be fixed on the client side by using my [ChangeDutyNotification](https://github.com/gggdunlix/FivePD-P-ChangeDutyNotification) plugin.
