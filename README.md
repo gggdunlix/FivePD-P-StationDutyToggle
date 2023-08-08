@@ -1,7 +1,8 @@
 # FivePD-P-StationDutyToggle
 
 Allows you to go on/off duty in person at customizable coordinates.
-![image](https://github.com/gggdunlix/FivePD-P-StationDutyToggle/assets/33298379/b49b752e-9f61-4c3a-bba5-f82e8f9b2e4c)
+![image](https://github.com/gggdunlix/FivePD-P-StationDutyToggle/assets/33298379/0b6c0a98-4222-42e1-91a2-a6b302b0c5f2)
+
 *Notice how the plugin adds a blip, marker, and tooltip for each location*
 
 ## Installation
